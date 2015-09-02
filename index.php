@@ -41,5 +41,15 @@ call_user_func(function(){
 
 <?php echo 'Rendered in ', round( microtime(true)-START_TIME , 4 ), ' sec.'; ?>
 
+<nav>
+<a href=""><svg><use xlink:href="<?php echo ROOT; ?>/inc/icons.svg#home-icon"></use></svg></a>
+<a href=""><svg><use xlink:href="<?php echo ROOT; ?>/inc/icons.svg#inv-icon"></use></svg></a>
+<a href=""><svg><use xlink:href="<?php echo ROOT; ?>/inc/icons.svg#map-icon"></use></svg></a>
+<a href=""><svg><use xlink:href="<?php echo ROOT; ?>/inc/icons.svg#tasks-icon"></use></svg><i>12</i></a>
+<a href=""><svg><use xlink:href="<?php echo ROOT; ?>/inc/icons.svg#config-icon"></use></svg></a>
+</nav>
+
+<aside class="compass"><svg><use xlink:href="<?php echo ROOT; ?>/inc/icons.svg#nav-icon"></use></svg></aside>
+
 <script src="<?php echo ROOT; ?>/inc/tiny-query.js"></script>
 <script src="<?php echo ROOT; ?>/inc/common.js"></script>
