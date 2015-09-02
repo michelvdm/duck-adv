@@ -4,7 +4,8 @@ h1,h2,h3{line-height:1.2;color:#900}
 
 html{background:#333}
 body{
-	background:#F2EBDB;
+	background:#F2EBDB url(paper_bg.jpg);
+
 	color:#300;
 	width:1280px;
 	height:753px;
@@ -81,3 +82,16 @@ nav i{
 
 h1{font-family:heroquest,sans-serif}
 .intro{font-family:serif;font-style:italic;font-size:24px}
+
+figure{
+	display:inline-block;
+	background:linear-gradient(135deg, #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%);
+	padding:10px;
+	border-radius:20px;
+	box-shadow:0 3px 10px rgba(0,0,0,.23),0 3px 10px rgba(0,0,0,.16);	
+}
+figure img{
+	display:block;
+	border-radius:10px;
+	box-shadow:inset 0 -2px 2px rgba(0,0,0,1);
+}
