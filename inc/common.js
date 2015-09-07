@@ -40,12 +40,51 @@ $(function(){
 
 	// rooms
 	ctx.strokeStyle='#900';
-	ctx.lineWidth=3;
+	ctx.lineWidth=2;
 	ctx.beginPath();
 
-	drawLine(1,1,11,1);
+	drawLine(1,1,12,1);
+	drawLine(1,4,9,4);
+	drawLine(9,6,12,6);
+	drawLine(1,9,9,9);
 	drawLine(1,1,1,9);
+	drawLine(5,1,5,9);
+	drawLine(9,1,9,9);
+	drawLine(12,1,12,6);
 
+	drawLine(14,1,25,1);
+	drawLine(17,5,25,5);
+	drawLine(14,6,17,6);
+	drawLine(17,9,25,9);
+	drawLine(14,1,14,6);
+	drawLine(17,1,17,9);
+	drawLine(21,1,21,9);
+	drawLine(25,1,25,9);
+
+	drawLine(10,7,16,7);
+	drawLine(10,12,16,12);
+	drawLine(10,7,10,12);
+	drawLine(16,7,16,12);
+
+	drawLine(1,10,9,10);
+	drawLine(5,13,12,13);
+	drawLine(1,14,5,14);
+	drawLine(1,18,12,18);
+	drawLine(1,10,1,18);
+	drawLine(5,10,5,18);
+	drawLine(7,10,7,13);
+	drawLine(9,10,9,18);
+	drawLine(12,13,12,18);
+
+	drawLine(17,10,25,10);
+	drawLine(14,13,18,13);
+	drawLine(18,14,25,14);
+	drawLine(14,18,25,18);
+	drawLine(14,13,14,18);
+	drawLine(17,10,17,13);
+	drawLine(18,13,18,18);
+	drawLine(21,10,21,18);
+	drawLine(25,10,25,18);
 
 	ctx.stroke();
 });
