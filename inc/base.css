@@ -5,7 +5,7 @@ h1,h2,h3{line-height:1.2;color:#900}
 html{
 	background:#333;
 	background:#F2EBDB url(paper_bg.jpg);
-	background:url('bg_50.gif');
+	/* background:url('bg_50.gif'); */
 }
 body{
 	/*
@@ -14,12 +14,11 @@ body{
 	color:#300;
 	width:1280px;
 	height:753px;
-	margin:20px auto;
+	margin:auto;
 	overflow-x:scroll;
 	position:relative;
 	box-sizing:border-box;
 	padding:20px;
-	display:none;
 }
 
 nav{
@@ -108,3 +107,10 @@ body{
 	background-size:50%;
 }
 */
+/* hq board= 26 x  19 */
+h1{display:none;}
+body{width:1350px}
+#hq-map{
+	border:double 3px #900;
+	background:#F1E7DA;
+}

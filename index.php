@@ -41,6 +41,10 @@ call_user_func(function(){
 
 <h1>Mockup test title</h1>
 
+<canvas id="hq-map" width="1040" height="760"></canvas>
+
+<!--
+
 <p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -59,6 +63,7 @@ call_user_func(function(){
 </nav>
 
 <aside class="compass"><svg><use xlink:href="<?php echo ROOT; ?>/inc/icons.svg#nav-icon"></use></svg></aside>
+-->
 
 <script src="<?php echo ROOT; ?>/inc/tiny-query.js"></script>
 <script src="<?php echo ROOT; ?>/inc/common.js"></script>
