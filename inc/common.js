@@ -12,79 +12,57 @@ $(function(){
 	});
 });
 
-/* heroquest map on canvas */
+/* array functions */
 $(function(){
-	var q=$('#hq-map');if(!q.length)return;
 
-	var hTiles=29,vTiles=19,size=40;
-	var ctx=q[0].getContext('2d');
+/*
+6 Dungeon Rooms
+5 Objective Rooms
+7 Corridors
+1 Steps
+3 T-junctions
+1 Comer
+*/
 
-	function drawLine(x,y,x2,y2){
-		ctx.moveTo(x*size,y*size);
-		ctx.lineTo(x2*size,y2*size);
-	}
+var orm=['##obj 1','##obj 2','##obj 3','##obj 4','##obj 5'],
+	rms=['dr 1','dr 2','dr 3','dr 4','dr 5','dr 6','cr 1','cr 2','cr 3','cr 4','cr 5','cr 6','cr 7','tj 1','tj 2','tj 3','steps','corner'];
 
-	// grid
-	ctx.strokeStyle='#D8CAB6';
-	ctx.lineWidth=1;
-	ctx.beginPath();
-	for(var i=1;i<vTiles;i++){
-		ctx.moveTo(0,i*size);
-		ctx.lineTo(hTiles*size,i*size);
-	}
-	for(var i=1;i<hTiles;i++){
-		ctx.moveTo(i*size,0);
-		ctx.lineTo(i*size,vTiles*size);
-	}
-	ctx.stroke();
+function getRandomInt(min,max){return Math.floor(Math.random()*(max-min+1)+min)}
+function clone(arr){return arr.slice(0)}
+function shuffle(arr){var n=arr.length,j,q;for(var i=n-1;i>1;i--){j=getRandomInt(0,n);q=arr[j];arr[j]=arr[i];arr[i]=q}return arr}
+function take(arr,num){return arr.splice(0,num)}
+function pickOne(arr){return(arr[Math.floor(Math.random()*arr.length)])}
 
-	// rooms
-	ctx.strokeStyle='#900';
-	ctx.lineWidth=2;
-	ctx.beginPath();
+var tmp,tmp2,tmp3,objRm,max=10000,stats=[];
 
-	drawLine(1,1,12,1);
-	drawLine(1,4,9,4);
-	drawLine(9,6,12,6);
-	drawLine(1,9,9,9);
-	drawLine(1,1,1,9);
-	drawLine(5,1,5,9);
-	drawLine(9,1,9,9);
-	drawLine(12,1,12,6);
 
-	drawLine(14,1,25,1);
-	drawLine(17,5,25,5);
-	drawLine(14,6,17,6);
-	drawLine(17,9,25,9);
-	drawLine(14,1,14,6);
-	drawLine(17,1,17,9);
-	drawLine(21,1,21,9);
-	drawLine(25,1,25,9);
+for(var i=0;i<max;i++){
+	// shuffle the rooms and take 6
+	tmp=clone(rms);
+	shuffle(tmp);
+	tmp2=take(tmp,6);
+	// take random objective room, add to stack, shuffle again
+	objRm=pickOne(orm);
+	tmp2.push(objRm);
+	shuffle(tmp2);
+	// take 6 more rooms and add them to the list
+	tmp3=take(tmp,6).concat(tmp2);
+	var q=tmp3.indexOf(objRm);
+	stats[q]=(stats[q]||0)+1;
+}
 
-	drawLine(10,7,16,7);
-	drawLine(10,12,16,12);
-	drawLine(10,7,10,12);
-	drawLine(16,7,16,12);
+/*
+var q,x=[];
+for(var i=0;i<max;i++){
+	q=getRandomInt(1,5);
+	stats[q]=(stats[q]||0)+1;
+}
 
-	drawLine(1,10,9,10);
-	drawLine(5,13,12,13);
-	drawLine(1,14,5,14);
-	drawLine(1,18,12,18);
-	drawLine(1,10,1,18);
-	drawLine(5,10,5,18);
-	drawLine(7,10,7,13);
-	drawLine(9,10,9,18);
-	drawLine(12,13,12,18);
+for(var q in stats){
+	x[q]=Math.abs(stats[q]-(max/5))/max*100;
+}
+*/
 
-	drawLine(17,10,25,10);
-	drawLine(14,13,18,13);
-	drawLine(18,14,25,14);
-	drawLine(14,18,25,18);
-	drawLine(14,13,14,18);
-	drawLine(17,10,17,13);
-	drawLine(18,13,18,18);
-	drawLine(21,10,21,18);
-	drawLine(25,10,25,18);
+console.dir( stats );
 
-	ctx.stroke();
 });

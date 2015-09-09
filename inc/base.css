@@ -12,7 +12,7 @@ body{
 	background:#F2EBDB url(paper_bg.jpg);
 */
 	color:#300;
-	width:1280px;
+	max-width:1280px;
 	height:753px;
 	margin:auto;
 	overflow-x:scroll;
@@ -108,9 +108,17 @@ body{
 }
 */
 /* hq board= 26 x  19 */
+/*
 h1{display:none;}
 body{width:1350px}
 #hq-map{
 	border:double 3px #900;
 	background:#F1E7DA;
 }
+*/
+
+/* test style */
+html{background:#333}
+body{background:#eee}
+h1{font-family:sans-serif}
+.js-out{display:block;box-sizing:border-box;width:100%;height:600px;padding:20px;font-size:inherit}
