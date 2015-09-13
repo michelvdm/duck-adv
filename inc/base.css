@@ -81,7 +81,7 @@ nav i{
 }
 
 h1{font-family:heroquest,sans-serif}
-.intro{font-family:serif;font-style:italic;font-size:24px}
+.intro{font-family:Times New Roman,serif;font-style:italic;font-size:24px;}
 
 figure{
 	display:inline-block;
@@ -94,4 +94,9 @@ figure img{
 	display:block;
 	border-radius:10px;
 	box-shadow:inset 0 -2px 2px rgba(0,0,0,1);
+}
+h1{
+	color:#900;
+	font-weight:normal;
+	font-size:3em;
 }
