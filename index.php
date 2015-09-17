@@ -16,7 +16,7 @@ require( BASE.'/sys/helpers.php');
 <?php 
 require( BASE.'/sys/game-helpers.php');
 
-require( BASE.'/sys/test02-deck.php');
+require( BASE.'/sys/test03-gui.php');
 
 
 
