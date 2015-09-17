@@ -1,0 +1,14 @@
+21 TORNADO
+
+The Warriors are hit by a tornado. The ferocity of the storm rips at the crumbling cliff path, attempting to pluck the Warriors from safety.
+Roll 1D6 for each Warrior. Look up the lowest number rolled on the following table to determine what happened to the Warrior with that score. If
+two or more Warriors have the same score, re-roll those dice until the victim of the tornado is determined.
+
+1 The tornado throws your Warrior into a gaping ravine, breaking his legs. He must be carried to safety by the other Warriors, adding one week to
+the journey time. As soon as the party arrives at its destination, the Warrior must pay 100 gold to be healed. If he cannot afford it, the healer takes all the gold he does have plus one piece of equipment or treasure as payment.
+
+2 Hanging from the ledge by his fingertips, the only way your Warrior manages to stay on is by letting his gold drop into the chasm. Your Warrior loses 5D6 x 10 gold (or all he has, if he has less).
+
+3-6 Your Warrior holds on, but his weapon is plucked from his grasp. Discard any one of your Warrior's weapons.
+
+

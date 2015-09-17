@@ -1,0 +1,11 @@
+15 INVESTMENT
+
+In one of the wharf side bars, your Warrior meets a young entrepreneur with great ideas for establishing a trading empire to cover the known world. He talks your warrior into investing 1D6 x 50 gold, giving him a certificate of partnership.
+
+From now on, at the end of each dungeon, whenever your Warrior reaches civilisation, he may visit the local Merchants' Guild and show them his deed of partnership. Consulting their records, they can tell him how the company is doing. Roll 1D6 on the following table: 
+
+1 The company has gone bust, and your Warrior's investment is worth nothing. In addition, he must pay the merchants 1D6 x 50 gold in outstanding debts.
+
+2-5 Your Warrior's investment is performing fairly well, and the merchant forwards him 1D6 x 10 gold as his share of the profits 
+
+6 Business is booming! After consulting the ledger, the merchant confirms that he can forward your Warrior 1D6 x 50 gold. 

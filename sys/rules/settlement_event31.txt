@@ -1,0 +1,9 @@
+31 DRUGGED
+
+Visiting a local hostelry in a rather seedy area, your Warrior partakes of a curious drink offered him by the bartender. After one swig, he feels the effects of the liquid take hold he has been drugged! 
+
+Roll 1D6 on the following table: 
+
+1-3 Your Warrior has been poisoned and is at -1 Toughness for the duration of the next adventure.  
+
+4-6 The liquid in question is simply very strong ale, and your Warrior quickly gets a taste for it. The only ill effect is a pounding head next morning.

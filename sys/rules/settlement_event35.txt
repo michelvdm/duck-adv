@@ -1,0 +1,12 @@
+35 DUEL
+
+Your Warrior is challenged to a duel by a professional duellist whom he insulted in a tavern. The duel is scheduled to take place at dawn tomorrow. Your Warrior can either leave town immediately or take up the challenge. 
+
+If your Warrior takes part in the duel, roll 1D6 on the following table: 
+
+1 With a single, well-placed sword thrust your Warrior's heart is speared and he falls to the ground, quite dead.
+
+2-4 The two duellists fight for hour after hour, each inflicting many light wounds on the other. Eventually the sun goes down and the fight is declared a draw. The duellist congratulates your Warrior on his swordsmanship, and offers him a fine supper and the best wine at the most expensive hotel in the Settlement
+
+5-6 After a few minutes, your Warrior realises that he has the better of the duellist and despatches him. On his body he finds jewels worth 2D6 x 50 gold and a single item of treasure (take a Treasure card). 
+

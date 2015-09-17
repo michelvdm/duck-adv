@@ -7,6 +7,8 @@ body{
 	margin:auto;
 	overflow-x:scroll;
 }
+pre{white-space:pre-wrap;word-wrap:break-word}
+
 
 .ui-pnl{padding:20px;min-height:500px;background:url(stone_texture5.jpg)}
 

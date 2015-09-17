@@ -1,0 +1,12 @@
+31 WITCH’S CAVE
+
+Deep in a gloomy ravine the Warriors come across the entrance to a dark cave. Inside it dwells a twisted, ugly hag who claims to be a witch.
+Each Warrior must pay 1D6 x 10 gold to get a single potion (roll the amount needed to buy each potion separately), and must drink it immediately. Roll 1D6 on the following table:
+
+1-2 Your Warrior falls unconscious, writhing in agony as fire burns through him. When he awakes he feels strangely weak. He is at -1
+Toughness for the duration or me next, adventure.
+
+2-4 The potion warms your Warrior to the core. He gains +1 Wound to be added permanently to his Starting Wounds score.
+
+5-6 A powerful heat surges through your Warrior, and he feels energy coursing through his muscles and sinews. He is at +1 Toughness for the duration of the next adventure.
+

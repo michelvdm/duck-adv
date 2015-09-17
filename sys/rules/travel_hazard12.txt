@@ -1,0 +1,7 @@
+12 FIRE
+During the night a fire rages through the camp. The intensity of the blaze is such that it may turn the Warriors' gold to lumps of molten metal. Roll 1D6 for each Warrior and consult the following table:
+
+1 Your Warrior's gold is melted beyond recognition. It is now only worth half its original value.
+2-5 Luckily, your Warrior's gold wasn't affected and he is still as wealthy, or as poor, as he was before the fire!
+6 Your Warrior's gold is intact! In addition, as he scrabbles in the blackened earth to retrieve his fortune, he finds a long-buried gemstone worth 1D6 x 50 gold.
+
