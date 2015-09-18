@@ -1,0 +1,14 @@
+41 GAMBLING
+
+Your Warrior visits a local inn and gets involved in a dubious game of dice.
+Roll 1D6 on the following table:
+
+1 Your Warrior loses badly, and must forfeit one piece of treasure of your choice
+
+2 Your Warrior loses 1D6 x 20 gold.
+
+3-4 Your Warrior comes out of the game evens
+
+5 Your Warrior wins 1D6 x 10 gold. 
+
+6 Your Warrior wins 3D6 x 10 gold

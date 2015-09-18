@@ -10,4 +10,6 @@ function take( &$deck, $num=1 ){
 	return ($num==1)?array_shift($deck):array_splice( $deck, 0, $num );
 }
 
- 
+function array_pick($arr){
+	return $arr[ array_rand($arr) ];
+}

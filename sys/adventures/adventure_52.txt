@@ -1,0 +1,27 @@
+2 DESECRATION
+
+Deep in the ruined cities of the Dwarfs, now occupied by Orcs, Goblins and even worse creatures, many of the once noble temples and shrines have been defiled. In their place are crude altars set up by these evil creatures, dedicated to all manner of foul Gods. Apart from the obvious pleasure of killing the invaders of their ancestral homes, and hopefully recovering some of the long-lost treasures, the Dwarf Kings also pay a rich reward for every evil temple destroyed. 
+
+The Warriors have been charged with the task of locating one of these temples that is reputed to lie deep below the ground in the ruins of Karak Azgal. Kargun Skalfson, deposed Lord of Karak Azgal, has allowed the Warriors into the ruins to search for the temple, and has waived his right to a share of any treasure they discover on the way - as long as they bring back evidence of the destruction of the temple. 
+
+Secretly, Skalfson does not believe there is a temple, and therefore hopes to persuade the Warriors to venture into the most dangerous regions of Karak Azgal in search of it. If they survive these hazardous, long-unexplored regions, they will surely find a great deal of treasure - and as there is no temple, he will gain his share of the treasure as usual.
+
+THE IDOL CHAMBER
+In actual fact, Skalfson is wrong and there is a temple in the ruins, dedicated to Khorne, the blood god.
+
+Roll on the Objective Room Monster Table to determine what Monsters the idol chamber contains. 
+
+Once the Monsters are defeated, the Warriors may destroy the temple by overturning the idol and thus desecrating it. They may then cut off its head as proof that they have successfully completed their mission. 
+
+To overturn the idol, all the Warriors must be standing in squares adjacent to it. Roll 1D6 for each Warrior and add their Strengths. 
+
+If the total is equal to 24 or over, the idol topples to the ground with a crash, and the head rolls free. 
+If the total is less than 24, the idol remains standing. 
+
+The Warriors may attempt to destroy the idol once per turn, during the Warriors’ Phase, as long as they do nothing else. 
+
+For each turn that the idol remains standing, the Wizard deducts 2 from his Power roll in the Power Phase. If the modified result is 1 or less, an Unexpected Event occurs. The Unexpected Event must be resolved before the Warriors can try to smash the idol again. 
+
+When the idol is smashed, a hideous scream echoes through the dungeon, causing all the monsters for miles around to flee in terror.
+
+This means that the Warriors can find their way back to the surface quite safely. At the end of the adventure, because there was an idol, Skalfson is obliged to let them keep all the treasure they found! 

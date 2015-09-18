@@ -1,0 +1,17 @@
+5 DESTROY THE TOMB
+
+The Dwarf Lords of Karak Azul have recently deciphered an ancient Dwarf scroll written in runes so old that even the Dwarfs have taken many years to identify their true meaning. Early on, the Dwarfs realised that it described a shrine of great magical power located somewhere in the Worlds Edge Mountains, beneath the tomb of a mighty Warrior. The Dwarfs knew that to find the shrine would put them in control of the most powerful forces they could possibly unleash upon their foes. The exact location was a mystery until recently when, after many years of painstaking work, it was finally pinpointed. To the Dwarfs’ horror, they realised that the shrine was directly below the Orc Fortress of Iron Rock. 
+
+The Dwarfs decided that the shrine had to be destroyed to prevent it falling into Orc hands. If the Orcs should find it, who knows what they would do? An attack by a large force would raise the Orcs’ suspicions about the Dwarfs’ motives, so the Dwarfs have asked the Warriors to sneak into the Orc stronghold to destroy the shrine.
+
+THE TOMB CHAMBER
+The shrine is in the tomb chamber, directly beneath the tomb itself. Roll on the Objective Room Monster Table to determine what Monsters the tomb chamber contains.
+
+Once the Monsters are defeated, the Dwarf may attempt to destroy the tomb. Only the Dwarf may damage the tomb, as he is the only one bearing a Dwarf axe. None of the other Warders can damage the tomb. As long as the Dwarf is standing in a square adjacent to the tomb he automatically hits it. The tomb has a Toughness of 3 and has 12 Wounds. 
+
+At the start of each turn in which the tomb remains intact and while there are no Monsters on the board, take an Event Card. Before the tomb can be hit again, the Event Card must be resolved. 
+
+Once the Warriors have destroyed the tomb, and the shrine with it, a gaping hole is revealed in the rubble, leading down into blackness. This tunnel eventually leads out of the dungeon and back to Karak Azul. 
+
+Once they reach the Dwarf Citadel, each Warrior is rewarded with one Treasure Card from the Treasure Deck. 
+

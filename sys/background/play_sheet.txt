@@ -1,0 +1,86 @@
+PLAY SHEET
+
+BEFORE YOU PLAY
+
+1. Each player chooses a Warrior to play, and takes an Adventure Record sheet for him. 
+
+2. Each player takes the Equipment card for his Warrior. 
+
+3. Work out how many Wounds each Warrior starts the game with (the Warrior card tells you what dice to roll). Write down the Warrior’s starting wounds on his Adventure Record sheet. 
+
+4. Shuffle the three spell decks. The Wizard player takes one spell card from each at random, 50 he will have one Attack spell, one Healing spell, and one Defence spell. The Wizard player rolls 1D6 and takes that many Power Tokens, and puts them on his Warrior card. 
+
+5. Shuffle the Event cards and the Treasure cards, and place each deck face down on the table. 
+
+6. Separate the Objective Room cards from the Dungeon cards. Pick one of the five Objective Room cards at random, this is the adventure you will be playing. The other four cards can be put back in the box. Find the section of the Adventure Book that contains the adventures for your chosen objective room, and roll a D6 to determine which adventure you will be playing. 
+
+7. Shuffle the Dungeon cards and deal out 6 face-down. Shuffle your chosen objective card into these 6 cards. Deal out another 6 Dungeon cards face-down onto the 7 cards you already have. This is the Dungeon deck for the adventure you are about to play. 
+
+8. Turn over the top card of the Dungeon deck. This is the entrance to the dungeon. Take the corresponding board section and place it on the table. Clip plastic doorways to any exits. Place the Warriors on the board, highest initiative first, starting with the leader. You are now ready to begin the
+game!
+
+- TURN SEQUENCE-
+1. Power Phase
+2. Warriors’ Phase
+3. Monsters’ Phase
+4. Exploration Phase
+
+- POWER PHASE -
+The Wizard player rolls 1D6 to determine how many Power Points he has this turn. If the dice roll is a 1, an Unexpected Event occurs.
+If the Wizard is dead, one of the other players must roll to see if an Unexpected Event occurs. 
+
+UNEXPECTED EVENTS
+Turn over the top card of the Event Deck. 
+If the Event card is a special event (it has an ‘E’ in the top corners) resolve it immediately. 
+If the Event card is a group of Monsters (it has an ‘M’ in the top comers) place them on the board according to the Rule of One-on-One. 
+
+- WARRIORS’ PHASE -
+During the Warriors’ Phase, each Warrior takes a turn to move and fight. The leader (the Barbarian) always goes first, followed by the Elf, the Wizard then the Dwarf. 
+
+MOVING
+A Warrior may move a number of squares equal to his Movement characteristic. He does not have to move the full distance, or even at all. He can move in any direction, including diagonally (but see Blocked Diagonals below). A Warrior may not move through a square that contains another model or obstacle.
+Blocked Diagonals: A Warrior may not move diagonally if one of the adjacent squares between him and his destination square is a wall. 
+
+PINNING
+If there is a Monster in a square adjacent to a Warrior at the start of this phase the Warrior is ‘pinned’. He cannot move this turn, and must stand and fight in hand-to-hand combat. A Warrior may try to escape from pinning by rolling equal to or over his pinning number (given on his Warrior card). If he succeeds he may move away. 
+
+FIGHTING
+When a Warrior ends his move next to a Monster he may fight it in hand-to-hand combat. 
+A Warrior who has a bow may shoot at a Monster from a distance. 
+He may not fire his bow if he is standing next to a Monster. A Warrior may not use a bow and fight in hand-to-hand combat in the same turn.
+Work out the results of the combat before moving on to the next Warrior’s turn. 
+Hitting an Opponent in Hand-to-hand Combat: Look up the defender’s Weapon Skill on the attacker’s Combat Table. Roll 1D6. 
+If you score equal to or over the number shown the attacker has hit his opponent. 
+Hitting an Opponent with a Bow: Look up the attacker’s Ballistic Skill. Roll 1D6. If you score equal to or over the number shown the attacker has hit his opponent. 
+
+WOUNDS
+Hand-to-Hand Combat: Roll 1D6 and add the attacker’s Strength.
+Subtract the opponent’s Toughness and armour values from the total. The final score is the number of Wounds the target suffers. 
+Shooting: Roll 1 D6 and add the weapon’s Strength. Subtract the opponent’s Toughness and armour values from the total. The final score is the number of Wounds the target suffers.
+Wounded Monsters: The number of Wounds a Monster has is given on the Event card. Use a small dice to show how many Wounds it has left. When it has no Wounds left it is dead. Remove the model from the board and place it on the Adventure Record sheet of the Warrior who killed it. 
+Wounded Warriors: Use the Adventure Record sheet to keep track of how many Wounds a Warrior currently has. A Warrior who is reduced to 0 Wounds will die at the end of the turn unless he can be healed back to 1 or more Wounds. 
+
+HEALING
+Wounded Warriors may have their Wounds restored by healing. 
+The Wizard may cast his healing spell, the Elf may use his Healing Potion, and it is possible that the Warriors may find other means of 
+healing in the form of Treasure cards. 
+
+GOLD AND TREASURE
+When all the Monsters on the board have been killed, the combat is over. Each player should work out how much gold his player has earned by multiplying the number of Monsters his Warrior has killed this combat by the Monsters’ gold value (on the bottom left of the Event card).  
+When an Event has been completed, the Warriors may take one Treasure card. 
+
+- MONSTERS’ PHASE -
+
+NEW ROOMS
+If the Warriors moved into a new dungeon room during the Warriors’ Phase, draw a card from the Event deck to see what is there. If the Warriors have entered a corridor, do not take an Event card. If they have found the objective room, follow the special rules in the Adventure Book. 
+If the Event card reveals Monsters, look at the card to see how many appear, and place the models on the board, according to the rule of One-on-One. 
+
+MONSTER ATTACKS
+If there are Monsters on the board they may move and attack now. Monsters that have been placed this Monsters’ Phase cannot attack yet. They have to wait until the Monsters’ Phase of the next turn, when their attacks are resolved using the First Attack rule. 
+Monsters that were placed in the Power Phase of the current turn can attack. 
+Moving: Monsters move in the same way as Warriors. They cannot move if they are pinned. When a Monster has moved, it may attack a Warrior in an adjacent square.
+Fighting: Monsters fight in the same way as Warriors (roll to hit, then roll for damage). The Monsters attack according to the rule of One-on-One.
+Each Monster resolves all its attacks before the next Monster takes its go. 
+A Monster may not attack in hand-to-hand combat and use a missile weapon in the same turn. 
+Remember that when Monsters make their very first attack, they use the First Attack rule. 
+

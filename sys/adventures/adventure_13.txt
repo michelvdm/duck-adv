@@ -1,0 +1,12 @@
+3 HELL’S GATE
+
+In the dungeons below Karak Azgal, a gate has been opened by evil sorcery. The gate leads to the plains of the Dark Lands, and monsters are continually spewing out of its black depths into the bowels of Karak Azgal. The more Monsters that gather in the depths of the ruined Dwarf city, the greater the threat to the Old World, so a party of brave Warriors must venture into the city and seal the gate.
+
+THE FIGHTING PIT
+The gate is located in the fighting pit. When the Warriors enter the objective room, consult the Objective Room Monster Table to determine what Monsters are in it. The Monsters are placed at the far end of the pit, next to the gate, but will swarm out to engulf the Warriors during the first Monsters’ Phase. The Monsters may climb out of the pit with no Movement penalty. Of course, there may be so many Monsters coming through the gate that they spill out of the pit anyway!
+
+Sealing The Gate Once the Warriors kill the Monsters, they must try to seal the gate permanently. This can only be done with a complex invocation that only the Wizard can perform.
+
+At the start of the Warriors’ Phase, the player controlling the Wizard may roll between 1 and 6 dice. If one or more of the dice comes up as a 6 and none of the dice comes up as a i, the gate is sealed and the Warriors have succeeded in their quest. If any of the dice come up as a 1 the gate remains open this turn, no matter how many 6’s are rolled. The Wizard may try and seal the gate once per turn. At the start of each Monsters’ Phase that the gate is open, and while there are no Monsters on the board, draw an Event Card.
+
+Monsters will continue to appear until the gate is closed. If the Warriors seal the gate and escape alive they are rewarded with one item of treasure each - give one Treasure Card to each Warrior.

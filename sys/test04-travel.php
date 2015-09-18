@@ -3,8 +3,6 @@
 1 pick destination
 2 read x hazard table events
 */
-$method=$_SERVER['REQUEST_METHOD'];
-session_start();
 
 function renderTravelTo(){
 	echo <<<EOT
@@ -42,31 +40,26 @@ function setDestination(){
 	$_SESSION["step"]++;
 }
 
-function doHazard(){
-	$num=roll()*10+roll();
-	//tag('p', 'You rolled: '.$num);
-	switch($num){
-		case 22: case 24: case 33: case 44: case 51: case 56:
-			echo '<pre>'.$num.': Uneventful week</pre>';
-			break;
-		default:
-			$hazard=file_get_contents(BASE.'/sys/rules/travel_hazard'.$num.'.txt');	
+function doHazard($num){
+	$none=array( 22, 24, 33, 44, 51, 56 );
+	tag('p', 'You rolled: '.$num);
+	if( in_array ( $num, $none ) ){
+		echo '<pre>'.$num.': Uneventful week</pre>';
+	}else{
+		$hazard=file_get_contents(BASE.'/sys/rules/travel_hazard'.$num.'.txt');	
 			echo '<pre>'.$hazard.'</pre>';
 			$_SESSION["hazards"]--;
 	}
 }
 
-function doSettlementEvent(){
-	$num=roll()*10+roll();
-	//tag('p', 'You rolled: '.$num);
-	$num=37;
-	switch($num){
-		case 13: case 22: case 32: case 36: 
-			echo '<pre>'.$num.': Uneventful day</pre>';
-			break;
-		default:
-			$event=file_get_contents(BASE.'/sys/rules/settlement_event'.$num.'.txt');	
-			echo '<pre>'.$event.'</pre>';
+function doSettlementEvent($num){
+	$none=array(13, 22, 32, 36, 42, 52, 56, 62, 65); 
+	tag('p', 'You rolled: '.$num);
+	if( in_array ( $num, $none ) ){
+		echo '<pre>'.$num.': Uneventful day</pre>';
+	}else{
+		$event=file_get_contents(BASE.'/sys/rules/settlement_event'.$num.'.txt');	
+		echo '<pre>'.$event.'</pre>';
 	}
 }
 
@@ -96,7 +89,8 @@ switch($step){
 		$dest=$_SESSION["destination"];
 		tag('h2', 'Traveling to the nearest '.$dest['name'].'&hellip;');
 		if($_SESSION["hazards"]>0){
-			doHazard();
+			$num=roll()*10+roll();
+			doHazard($num);
 		}else{
 			tag('p', 'You reached your destination. You may enter the '.$dest['name'].'. ');
 			$_SESSION["step"]=3; // in a settlement
@@ -109,7 +103,8 @@ switch($step){
 		tag('h2', 'In '.$dest['name'].', day '.$_SESSION["day"].'&hellip;');
 		// each warrior: 
 		// do stuff, then: 
-		doSettlementEvent();
+		$num=roll()*10+roll();
+		doSettlementEvent($num);
 		$_SESSION["day"]++;
 		tag('a href=""', 'Continue');
 		break;
@@ -118,6 +113,4 @@ switch($step){
 		debug($_SESSION);
 
 }
-
-
 

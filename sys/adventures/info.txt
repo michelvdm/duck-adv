@@ -1,0 +1,53 @@
+
+In each adventure, the Warriors’ goal is to find the objective room and complete the special event that occurs there. The objective room will always be defended by a large number of Monsters. To see which Monsters defend the objective room, roll 1D6 on the Objective Room Monster Table below. This is done in the Monsters’ Phase as the Warriors enter the room, and replaces taking an Event Card. Full details for all these Monsters are found on the quick reference sheet at the rear of the Rule Book and on the Event Cards.
+
+OBJECTIVE ROOM MONSTER TABLE
+1 3 Minotaurs, 4 Orc Warriors and 1D6 Orc Archers
+2 1 Minotaur, 6 Orc Warriors and 6 Orc Archers
+3 1 Minotaur, 1D6+2 Skaven and 2D6 Giant Rats
+4 6 Orc Warriors , 6 Orc Archers and 6 Night Goblin Archers
+5 6 Bats, 6 Giant Spiders and 6 Rats
+6 12 Snotlings, 6 Goblin Warriors and 6 Night Goblin Archers
+
+THE FIRST ADVENTURE
+To get started, try the Fighting Pit adventure number 6 - Free The Prisoners. This is pretty straightforward, with no special rules to be learnt. Once you have succeeded in freeing the prisoners, adventures 2 and 4 for the Fountain Chamber are not too complicated either.
+
+By the time you have got the hang of these adventures, you should be ready for the special rules which apply to the other adventures in the book. In particular, the adventures for the Firechasm objective room need to be read carefully, as there is a set of new rules which just cover getting across the chasm, before you even begin to work out what you have to do once you get there!
+
+ROOM DESC
+
+1 - THE FIGHTING PIT -
+The dim light of a single lamp suspended from the ceiling barely penetrates the shadows of this dark and forbidding room.
+
+2 - THE FIRECHASM -
+A deep red light seeps out from this room, suffusing the area with a burning glow. The air is almost too warm to breathe and the walls are hot to the touch.
+
+3 - FOUNTAIN OF LIGHT -
+You can just make out the faint trickle of running water, and see a pale yellowish glow coming from the centre of this room.
+
+4 - THE TOMB CHAMBER -
+A chill breeze blows out from this room, and you can just make out the shape of a set of stairs leading up to a stone slab inside.
+
+5 - THE IDOL CHAMBER -
+The wan light of your lantern glints off the cold walls of this chamber, revealing a set of steps leading up to an idol on the far side of the room.
+
+
+
+--------------------------------------------------------------
+The following rules apply to all the Firechasm adventures.
+
+CROSSING THE CHASM
+The rope bridge is the only way across the chasm, and is equivalent to 2 squares of Movement. For each Warrior that attempts to cross the bridge roll 1D6 on the following table:
+
+1-2 The Warrior slips on the ancient bridge. Roll 1D6 on the Firechasm Hazard Table.
+3-6 The Warrior makes it safely across. 
+
+FIRECHASM HAZARD TABLE
+1 The Warrior falls into the chasm and is killed. 
+2-3 The Warrior slips, dangling into the flames. He is badly burnt, taking 1d6 wounds with no deductions for Toughness or armour, but manages to haul himself across the opposite side of the chasm.
+4 The Warrior slips, losing his grip on any one item of treasure or equipment. Determine which item is lost in the abyss randomly.
+5-6 The Warrior grips the bridge as it starts to swing violently. No other Warriors may attempt to cross the bridge this turn. At the end of the turn, roll 1D6 for the Warrior to see which side of the chasm he ends up on: 1-3 The far side  4-6 The near side
+
+Monsters have no such problems in crossing the bridge, as they do it all the time.
+
+

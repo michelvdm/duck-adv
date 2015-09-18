@@ -1,0 +1,29 @@
+
+In Warhammer Quest each player takes the role of one of the Warriors - the Barbarian, the Dwarf, the Elf or the Wizard. The Warriors' different abilities and skills are represented in the game by eight different characteristics. These are numerical values that show how fast the individual is, how strong, how tough and so forth. Each characteristic is measured on a scale of 1 to 10. If a Warrior is very strong he will have a high Strength characteristic value, if he is very tough, he will have a high Toughness characteristic value, and s0 on.
+
+The eight characteristics are: Wounds, Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Initiative and Attacks. Taken together, these characteristic values are called the Warrior's profile. 
+
+WOUNDS (W)
+This characteristic shows how much damage a Warrior can take before being killed, and therefore knocked out of the game. Unlike the other characteristics, a Warrior can have more than 10 Wounds (the average number of Wounds a Warrior has at the start of the game is 11). During play, your Warrior will lose Wounds as he fights Monsters, falls victim to traps, or suffers from poison or other perils. 
+
+MOVEMENT (M)
+This shows how far a Warrior may move in one turn of the game. The higher his Movement value the further he can move. 
+
+WEAPON SKILL (WS)
+This is a measure of a Warrior's prowess in hand-to-hand fighting. The higher a Warrior's Weapon Skill, the easier it is for him to land blows on his opponents.
+
+BALLISTIC SKILL (BS)
+This shows how good a shot the Warrior is with bows and other similar weapons.
+
+STRENGTH (S)
+This shows how strong the Warrior is. The stronger the individual, the more powerful his blows, and the more likely he is to wound his opponents.
+
+TOUGHNESS (T)
+This characteristic shows how tough the Warrior is. The tougher the Warrior is, the more difficult it is for his opponents to inflict wounds on him, and the easier it is for him to withstand an enemy's blows.
+
+INITIATIVE (I)
+The Initiative characteristic shows how quickly a Warrior can react to danger. A Warrior's Initiative determines when he takes his turn in the game.
+
+ATTACKS (A)
+This characteristic shows how many times a Warrior can strike his opponent each turn. Our Warriors have only one attack per turn, but some Monsters have more. The more Attacks a creature has, the more dangerous it is to fight, as you will soon discover. 
+

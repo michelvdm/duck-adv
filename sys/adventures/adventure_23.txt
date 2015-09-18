@@ -1,0 +1,27 @@
+3 EXTINGUISH THE FLAMES
+
+Below the lost Dwarf stronghold of Karak Vlag, the ancient forge fires still burn. Now occupied by evil creatures, the flames’ magical energies are being used to create chaotic and cursed weapons. The forges must be extinguished before their new masters learn how to manufacture weapons of even more awesome power The Dwarf Lord of Zhufbar is host to the descendants of the lords of Karak Vlag, and shares their fears. Although the quenching of
+the ancient flames seems an act of unthinkable wrong, it is the only option available to prevent the creation of a greater evil.
+
+The exiled lords of Karak Vlag know that only the first item forged in the magical fires - a ring - can extinguish the flames. As the ring is an ancient Dwarf treasure, it must be hurled into the chasm by a Dwarf. If the Dwarf is killed, then the Warriors have, by default, failed.
+
+The Warriors must first defeat the guardians of the firechasm, as only then can the Dwarf hurl the ring into its depths. The ring in question is located on one of the claws of a dragon statue that decorates the firechasm. 
+
+THE FIRECHASM
+The Warriors must retrieve the ring from the dragon statue and throw it into the chasm. This cannot be done until all the Monsters defending the firechasm are destroyed. Once the defenders are killed, the Dwarf may retrieve the ring.
+
+To determine the Monsters that are guarding the firechasm, roll once on the Objective Room Monster Table.
+
+To retrieve the ring, the Dwarf must be standing next to the statue. He may try to get the ring once per turn, at the start of the Power Phase. For each attempt, roll 1D6 on the following table: 
+
+1-2 The ring is firmly stuck, and the noise the Warriors are making attracts trouble. Take an Event Card.
+3-6 The ring is stuck. Try again next turn
+5-6 The ring slips easily off the dragon’s claw. As it comes loose, a great panel of stone behind the dragon rolls away, revealing a passageway to the outside world.
+
+To be able to throw the ring into the chasm, there must be no Monsters in the room, and the Dwarf must be standing in a square adjacent to the chasm.
+
+As the ring is thrown into the chasm, the flames leap upwards and envelop anyone standing nearby. Each Warrior in a square adjacent to the edge of the chasm suffers 2D6 Wounds, modified for Toughness and armour.
+
+The flames then slowly flicker and die, and the adventure is over. The Warriors may now escape via the tunnel.
+
+Each surviving Warrior is rewarded with treasure from the hoard of the Lords of Zhufbar. Take a Treasure Card for each Warrior. 

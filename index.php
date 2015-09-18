@@ -4,6 +4,30 @@ define( 'BASE', __DIR__ );
 
 require( BASE.'/sys/helpers.php');
 
+/*
+
+PHASE 1: PROLOGUE
+
+1 introduction
+2 assemble party, pick leader
+3 pick adventure
+
+PHASE 2: ADVENTURE
+
+PHASE 3: TRAVEL
+
+PHASE 4: SETTLEMENT
+
+1. Each Warrior can undertake a Settlement Activity, which is either:
+
+	A. Visit one trader and attempt to buy and sell one or more items,
+	B Search for and visit one Special Location, such as the Alchemist's Laboratory, the Wizards' Guild or the Temple, etc. 
+
+2. Each Warrior generates a Settlement Event
+3. Each Warrior must pay his Living Expenses.
+
+*/
+
 
 ?>
 <!DOCTYPE html><html lang="en"><meta charset="utf-8">
@@ -16,9 +40,7 @@ require( BASE.'/sys/helpers.php');
 <?php 
 require( BASE.'/sys/game-helpers.php');
 
-require( BASE.'/sys/test04-travel.php');
-
-
+require( BASE.'/sys/test07-settlement.php');
 
 
  ?>

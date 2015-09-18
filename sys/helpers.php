@@ -36,3 +36,6 @@ function db_connect($host, $user, $pass, $name){
 	}
 }
 
+$method=$_SERVER['REQUEST_METHOD'];
+session_start();
+

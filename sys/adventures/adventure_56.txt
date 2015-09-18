@@ -1,0 +1,17 @@
+6 SWORD OF THE ELECTORS
+
+One of the long-lost swords of the Elector Counts of the Empire, missing for centuries, has been found by a band of warriors in the Worlds Edge Mountains, near the Dwarf Hold of Mount Grimfang.
+
+Unfortunately, before they could return the blade to safety, all but one of the warriors were killed. The one warrior who survived, although tortured and badly mutilated, managed to escape and get back to the Emperor to tell his story.
+
+The Warriors have been requested to seek out this extremely important sword and return it. 
+
+THE IDOL CHAMBER
+The sword is being kept in the idol chamber, clasped in the hand of the stone idol. 
+
+Roll on the Objective Room Monster Table to determine what Monsters the idol chamber contains. 
+
+Once the Monsters have been defeated, the Warriors may try and retrieve the sword. Each Warrior may make one attempt to get the sword each turn. To do so, a Warrior must stand in one of the squares adjacent to the idol. Roll 1D6 and add the Warrior’s Strength. If the total is 7 or more, he has succeeded and wrenches the sword free. If the total is less than 7, the idol suddenly animates and strikes the Warrior. The attack automatically hits and does 3D6 Wounds, modified for Toughness and armour. The idol then becomes immobile once more. The same Warrior cannot try again until all the Warriors have attempted the task.
+
+If the Warriors retrieve the sword, they are rewarded with 1D6 x 50 gold each. 
+

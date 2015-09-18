@@ -1,0 +1,17 @@
+6 IDENTIFY
+
+The Warriors have been employed to carry out an apparently simple task, for which they will be well paid. All they have to do is solve an inheritance dispute between two Imperial Lords, by correctly identifying a body buried in a far away tomb in the Worlds Edge Mountains.
+
+THE TOMB CHAMBER
+Roll on the Objective Room Monster Table to determine what Monsters the tomb chamber contains. 
+
+Once the Monsters are defeated, the Warriors may lift back the lid of the tomb and determine who the body belongs to. Roll 1D6 on the following table:
+
+1-3 The skeleton has no teeth
+4-6 The skeleton is missing its left hand
+
+Having identified the body, the Warriors may make their way to the surface. As they have killed all the Monsters in the dungeon, the way out is clear and they may exit without even rolling for Unexpected Events. 
+
+If the skeleton has no teeth, it belongs to the household of Luckstein, an honourable family who reward the Warriors with 1D6 x 100 gold each for sorting out the inheritance question once and for all.
+
+If the skeleton is missing its left hand, it belongs to the household of Bravia, whose current Lord is a scheming, arrogant individual. When the Warriors get back, he proclaims he has discovered the truth himself, denies any deal with the Warriors, and refuses to pay them a penny! 

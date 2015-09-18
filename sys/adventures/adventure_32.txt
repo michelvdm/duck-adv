@@ -1,0 +1,13 @@
+2 SKAVEN CURSE!
+
+The water supply for the city of Miragliano comes from many sources. The main supply is from the rivers that run down from the Vaults, but the most precious comes from an ancient shrine hidden in a deep cave system, from which springs a gushing fountain. This fountain provides the purest water in Miragliano, and has done so for countless years. The Skaven of Skavenblight have found the fountain and polluted it, filling it with the twisting influence of warpstone. Already a sickness spreads in Miragliano, and a large reward has been offered to anyone who can find a cure.
+
+A far-seeing academic has guessed at the truth, and wishes to find out if the waters are indeed polluted. He has gathered your band of Warriors together to seek the source of the waters and, if needs be, cleanse it.
+
+THE FOUNTAIN ROOM
+Do not roll on the Objective Room Monster Table to determine what Monsters the fountain room contains. Instead, it is guarded by 12 Skaven warriors.
+
+When all the Skaven defending the fountain are killed, the Warriors must remove the warpstone from the fountain. This is hazardous in the extreme. There is enough warpstone in the fountain for each Warrior to take a heavy load.
+
+To remove the warpstone, your Warrior must be in a square adjacent to the fountain. Upon removing it, roll 2D6. The Warrior loses that number of Wounds, with no modifiers for Toughness or armour. This may of course kill the Warrior, but at least the warpstone is removed! Each Warrior must remove one load. No Warrior can try more than once, as the warpstone’s power will kill him immediately he tries a second time. Once the fountain is purified, the Warriors may return to Miragliano to claim the reward of 1D6 x 50 gold each.
+

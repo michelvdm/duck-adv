@@ -1,0 +1,7 @@
+54 BEGGARS
+
+Your Warrior is accosted by beggars and, overwhelmed by the sadness of their plight, gives each of the 2D6+2 pitiful wretches 5 gold. If your Warrior cannot pay he is a beggar himself, and you must roll 1D6 on the following table:
+
+1 Your Warrior is thrown out of the Settlement - see Settlement Even 11.
+
+2-6 Your Warrior gains 1D6 x 10 gold by begging. 
